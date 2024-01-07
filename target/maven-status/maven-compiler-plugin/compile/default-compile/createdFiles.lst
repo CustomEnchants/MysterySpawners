@@ -1,0 +1,10 @@
+MysterySpawners\MysterySpawnersPlugin.class
+MysterySpawners\Utils\Util.class
+MysterySpawners\Commands\SubCommands\GiveAll.class
+MysterySpawners\Commands\SubCommands\Reload.class
+MysterySpawners\Commands\MysterySpawners.class
+MysterySpawners\Listeners\PlayerListener.class
+MysterySpawners\Utils\FileUtil.class
+MysterySpawners\Commands\SubCommands\Give.class
+MysterySpawners\Objects\SubCommand.class
+MysterySpawners\Commands\MysterySpawners$1.class

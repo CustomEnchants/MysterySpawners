@@ -1,0 +1,15 @@
+name: MysterySpawners
+version: ${project.version}
+author: CustomEnchants
+main: MysterySpawners.MysterySpawnersPlugin
+softdepend:
+  - CustomsStackedSpawners
+  - CustomsSilkSpawners
+  - SilkSpawners
+  - AdvancedSpawners
+  - WildStacker
+api-version: 1.13
+commands:
+  MysterySpawners:
+    description: MSpawner commands
+    aliases: [mspawner,emspawner,mysteryspawner,emysteryspawner,emysteryspawners]
